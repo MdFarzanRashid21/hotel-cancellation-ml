@@ -24,7 +24,7 @@ A hotel loses revenue when a guest cancels at the last minute and the room stays
 
 ## 3. GitHub Repository Link
 
-<FILL: https://github.com/your-username/your-repo>
+<FILL: [https://github.com/MdFarzanRashid21/hotel-cancellation-ml]
 
 ```
 project-folder/
