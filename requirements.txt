@@ -1,7 +1,0 @@
-scikit-learn>=1.2
-numpy
-pandas
-matplotlib
-seaborn
-joblib
-jupyter
